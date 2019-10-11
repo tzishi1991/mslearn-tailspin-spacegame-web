@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/AdatisCI-CDTraining/TRZ%20Project/_apis/build/status/tzishi1991.mslearn-tailspin-spacegame-web%20(2)?branchName=master)](https://dev.azure.com/AdatisCI-CDTraining/TRZ%20Project/_build/latest?definitionId=13&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
